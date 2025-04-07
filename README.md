@@ -14,6 +14,8 @@ This project demonstrates how to configure Group Policy in an Active Directory e
 * Group Policy Objects (GPOs)
 * Basic Network File Sharing Knowledge (SMB)
 * Active Directory Users and Computers (ADUC)
+* WMI Filtering
+* Powershell/Command Prompt
 
 * GUIDE to set up VMs, Active Directory, Domain Controller, Domain Admins/Users is [here](https://github.com/Derm-IT/domain-controller-azure-setup-ad) and [configure here](https://github.com/Derm-IT/deploy-configure-ad)
 
